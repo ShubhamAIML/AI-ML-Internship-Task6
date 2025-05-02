@@ -3,6 +3,8 @@
 ## Overview 📋  
 This repository contains the solution for **Task 6** of the **AI & ML Internship**, implementing a **K-Nearest Neighbors (KNN) classifier** on the **Iris dataset**. The goal was to understand and apply KNN for classification, normalize features, experiment with different K values, evaluate the model using accuracy and confusion matrix, and visualize decision boundaries. The project was developed in **Google Colab**, with visualizations displayed inline and saved as **PNGs** for submission.  
 
+Run the analysis on : [Colab Notebook](https://colab.research.google.com/drive/1mjb-x7gX-9VDTE2r5JsL1z1N4GvAhapJ?usp=sharing)
+
 ---
 
 ## Dataset 📊  

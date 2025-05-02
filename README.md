@@ -141,8 +141,8 @@ seaborn
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/your-username/Task6-KNN-Classification.git  
-cd Task6-KNN-Classification  
+git clone https://github.com/ShubhamAIML/AI-ML-Internship-Task6.git  
+cd AI-ML-Internship-Task6  
 ```  
 
 ### 2. Set Up Environment  
